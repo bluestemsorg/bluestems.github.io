@@ -1,3 +1,5 @@
+<head><link rel="shortcut icon" type="image/x-icon" href="bluestems.ico?"></head>
+
 # BlueStems™
 The BlueStems™ Institute for Organic Native Land Restoration (BISON) conducts student-led research and projects to conserve, reclaim, and restore prairie lands in Texas.
 
